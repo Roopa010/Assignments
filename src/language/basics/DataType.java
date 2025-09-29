@@ -1,6 +1,6 @@
 package language.basics;
 
-public class FirstJavaClass {
+public class DataType {
 
 	public static void main(String[] args) {
 		float temperature = 25.5f;
@@ -34,7 +34,7 @@ public class FirstJavaClass {
 	    int currentYear = 2023;
 	    System.out.println("Current year: " + currentYear);
 	    
-	    long noOfFollowers = 1000000l;
+	    String noOfFollowers = "1,000,000";
 	    System.out.println("Number of followers on a social media platform: " + noOfFollowers);
 	    
 	    float rate = 7.5f;

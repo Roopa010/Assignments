@@ -1,10 +1,9 @@
-package language.basics;
+package programs;
 
 public class ConditionalStatement {
 
 	public static void main(String[] args) {
-		ConditionalStatement loan = new ConditionalStatement();		
-		
+	
 		String customerName = "John Doe";
 		int creditScore = 720;
 		float income = 55000.0f;

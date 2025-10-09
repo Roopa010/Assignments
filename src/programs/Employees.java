@@ -1,4 +1,4 @@
-package language.basics;
+package programs;
 
 public class Employees {
 

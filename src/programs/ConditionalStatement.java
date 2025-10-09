@@ -17,8 +17,14 @@ public class ConditionalStatement {
 				if(isEmployed = true) {
 					if(debtToIncomeRatio < 40) {
 						System.out.println("The loan is approved for the Customer " + customerName);
+					} else {
+						System.out.println("The loan is denied");
 					}
+				} else {
+					System.out.println("The loan is denied");
 				}
+			} else {
+				System.out.println("The loan is denied");
 			}
 		} else {
 			System.out.println("The loan is denied");

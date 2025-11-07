@@ -1,6 +1,6 @@
 package programs;
 
-public class Assignment12 {
+public class Program12 {
 
 	public static void main(String[] args) {
 		String sentence = "Java programming is fun and challenging";

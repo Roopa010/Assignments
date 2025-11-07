@@ -1,6 +1,6 @@
 package programs;
 
-public class Assignment10ArraysLoops {
+public class Program10ArraysLoops {
 
 	public static void main(String[] args) {
 		
